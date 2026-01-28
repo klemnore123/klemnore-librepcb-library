@@ -1,0 +1,10 @@
+(librepcb_component_category 1dce4413-d850-469e-8132-a7263c4e11ed
+ (name "Klemnore Vacuum Tubes")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-01-27T19:35:47Z)
+ (deprecated false)
+ (parent none)
+)

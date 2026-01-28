@@ -1,0 +1,10 @@
+(librepcb_package_category 239cf585-e3e0-4e51-a718-92274c68abef
+ (name "Klemnore PTH Resistors")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-01-27T01:04:46Z)
+ (deprecated false)
+ (parent none)
+)

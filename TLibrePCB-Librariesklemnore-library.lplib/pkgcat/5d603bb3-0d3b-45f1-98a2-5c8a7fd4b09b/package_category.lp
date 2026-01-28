@@ -1,0 +1,10 @@
+(librepcb_package_category 5d603bb3-0d3b-45f1-98a2-5c8a7fd4b09b
+ (name "Empty Package Category")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-01-27T04:19:34Z)
+ (deprecated false)
+ (parent none)
+)

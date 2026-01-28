@@ -1,0 +1,11 @@
+(librepcb_library 1ee1781a-fded-488c-b15a-3ed2d50aaa32
+ (name "klemnore-library")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-01-27T00:05:52Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)
