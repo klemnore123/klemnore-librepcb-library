@@ -1,0 +1,10 @@
+(librepcb_package_category 8d527957-43fe-48e6-87ea-1454d54e937f
+ (name "Klemnore MOSFETs")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-01-29T16:30:46Z)
+ (deprecated false)
+ (parent none)
+)

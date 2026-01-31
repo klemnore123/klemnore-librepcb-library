@@ -1,0 +1,10 @@
+(librepcb_package_category b4a8cde4-c160-4bb2-bc54-6d2e2cd23248
+ (name "Klemnore Inductors")
+ (description "")
+ (keywords "")
+ (author "")
+ (version "0.1")
+ (created 2026-01-29T02:04:46Z)
+ (deprecated false)
+ (parent none)
+)

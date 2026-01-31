@@ -1,0 +1,10 @@
+(librepcb_package_category b2ba5f4b-c7c4-4f8a-bd03-310c1fc8a7c5
+ (name "Klemnore IC's")
+ (description "")
+ (keywords "")
+ (author "")
+ (version "0.1")
+ (created 2026-01-28T21:51:00Z)
+ (deprecated false)
+ (parent none)
+)

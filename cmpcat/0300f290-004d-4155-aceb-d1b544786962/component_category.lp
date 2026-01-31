@@ -1,0 +1,10 @@
+(librepcb_component_category 0300f290-004d-4155-aceb-d1b544786962
+ (name "Klemnore Electromagnetic")
+ (description "")
+ (keywords "inductor, transformer, relay")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-01-27T04:23:22Z)
+ (deprecated false)
+ (parent none)
+)

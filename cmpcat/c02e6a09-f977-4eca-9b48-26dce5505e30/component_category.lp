@@ -1,0 +1,10 @@
+(librepcb_component_category c02e6a09-f977-4eca-9b48-26dce5505e30
+ (name "Klemnore Passives")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-01-27T00:10:10Z)
+ (deprecated false)
+ (parent none)
+)

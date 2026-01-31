@@ -1,0 +1,10 @@
+(librepcb_package_category 42a959fa-856c-4e45-9af8-aa2fcbbdda18
+ (name "Klemnore Resistors")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-01-30T23:41:35Z)
+ (deprecated false)
+ (parent none)
+)

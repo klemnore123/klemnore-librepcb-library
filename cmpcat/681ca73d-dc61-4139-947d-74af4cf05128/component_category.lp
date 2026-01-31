@@ -1,0 +1,10 @@
+(librepcb_component_category 681ca73d-dc61-4139-947d-74af4cf05128
+ (name "Klemnore PMIC")
+ (description "")
+ (keywords "")
+ (author "")
+ (version "0.1")
+ (created 2026-01-28T21:51:46Z)
+ (deprecated false)
+ (parent none)
+)

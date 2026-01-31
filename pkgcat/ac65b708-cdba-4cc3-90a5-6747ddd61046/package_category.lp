@@ -1,0 +1,10 @@
+(librepcb_package_category ac65b708-cdba-4cc3-90a5-6747ddd61046
+ (name "Klemnore Terminal Blocks")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-01-29T13:23:39Z)
+ (deprecated false)
+ (parent none)
+)

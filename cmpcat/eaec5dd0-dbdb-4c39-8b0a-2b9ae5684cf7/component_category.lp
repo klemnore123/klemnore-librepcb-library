@@ -1,0 +1,10 @@
+(librepcb_component_category eaec5dd0-dbdb-4c39-8b0a-2b9ae5684cf7
+ (name "Klemnore Diodes")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-01-29T11:11:01Z)
+ (deprecated false)
+ (parent none)
+)

@@ -1,0 +1,10 @@
+(librepcb_package_category 7c988b90-eeef-4355-9b2b-a0a2dcb4f719
+ (name "Klemnore Capacitors")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-01-29T10:43:43Z)
+ (deprecated false)
+ (parent none)
+)
