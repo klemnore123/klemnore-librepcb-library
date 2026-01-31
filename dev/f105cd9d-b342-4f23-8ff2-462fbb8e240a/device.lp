@@ -17,5 +17,6 @@
   (signal 50277587-a7e0-47b1-83e6-12a150846b14)
  )
  (part "LGC2H681MELC55" (manufacturer "Nichicon")
+  (attribute "VALUE" (type capacitance) (unit microfarad) (value "680"))
  )
 )

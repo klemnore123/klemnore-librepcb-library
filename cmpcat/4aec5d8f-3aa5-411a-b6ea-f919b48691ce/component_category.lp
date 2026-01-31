@@ -1,0 +1,10 @@
+(librepcb_component_category 4aec5d8f-3aa5-411a-b6ea-f919b48691ce
+ (name "Klemnore Line EMI Filters")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-01-31T13:17:10Z)
+ (deprecated false)
+ (parent none)
+)
