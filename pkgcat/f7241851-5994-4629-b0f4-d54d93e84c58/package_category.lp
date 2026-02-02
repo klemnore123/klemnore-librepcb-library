@@ -1,0 +1,10 @@
+(librepcb_package_category f7241851-5994-4629-b0f4-d54d93e84c58
+ (name "Klemnore Relays")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-02-02T13:45:35Z)
+ (deprecated false)
+ (parent none)
+)
