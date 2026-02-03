@@ -1,0 +1,10 @@
+(librepcb_component_category 65ff1f0a-1020-4d71-a3a4-7711fa475b54
+ (name "Klemnore Logic")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-02-02T23:24:49Z)
+ (deprecated false)
+ (parent none)
+)

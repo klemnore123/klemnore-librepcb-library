@@ -1,0 +1,10 @@
+(librepcb_component_category 790646b4-b417-405f-970a-6427e7122043
+ (name "Klemnore LDOs")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-02-02T22:26:15Z)
+ (deprecated false)
+ (parent none)
+)

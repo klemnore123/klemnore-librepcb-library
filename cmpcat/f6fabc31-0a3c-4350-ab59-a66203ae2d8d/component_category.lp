@@ -1,0 +1,10 @@
+(librepcb_component_category f6fabc31-0a3c-4350-ab59-a66203ae2d8d
+ (name "Klemnore Transformers")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-02-02T21:08:48Z)
+ (deprecated false)
+ (parent none)
+)

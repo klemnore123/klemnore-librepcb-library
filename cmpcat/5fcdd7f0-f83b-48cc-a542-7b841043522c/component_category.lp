@@ -1,0 +1,10 @@
+(librepcb_component_category 5fcdd7f0-f83b-48cc-a542-7b841043522c
+ (name "Klemnore Schematic Symbols")
+ (description "")
+ (keywords "")
+ (author "klemnore")
+ (version "0.1")
+ (created 2026-02-02T23:54:24Z)
+ (deprecated false)
+ (parent none)
+)
